@@ -1,11 +1,14 @@
 body {
-background-color:#b5f4ff ;
-
-
-
+background-color:#b5f4ff;
+font-family: cursive;
 
 }
 
 .cake-image{
     width: 600px;
+}
+
+div{
+    border-radius: 20px;
+    background-color: #fdffc4;
 }
